@@ -1,0 +1,3 @@
+For add this module for your project, just use the command line:
+
+$ git submodule add https://github.com/viniciusbord9/ZF2Angular.git vendor/ZF2A
