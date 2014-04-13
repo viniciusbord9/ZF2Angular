@@ -17,7 +17,7 @@ class AngularModel extends ViewModel
     public function __construct($variables = null, $options = null)
     {
         $view= new ViewModel($variables, $options);
-        $this->setTemplate('angular/controllers');
+        $this->setTemplate('angular/scripts');
         parent::__construct($variables, $options);
     }
 }
